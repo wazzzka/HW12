@@ -1,5 +1,4 @@
-const products = [
-  {
+const products = [{
     name: 'Apple iPhone',
     price: 1500,
     availability: 5,
