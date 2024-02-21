@@ -4,7 +4,7 @@ function showProducts() {
     }
 }
 
-function getProductNumber(maxValue, messageToUser) {
+function getNumericValue(maxValue, messageToUser) {
     let value;
     do {
         value = parseInt(prompt(messageToUser));
